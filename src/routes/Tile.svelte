@@ -109,7 +109,6 @@ hover:from-teal-600/90 hover:via-sky-700/90 hover:to-indigo-700/90
       <Fa icon={faFolderOpen} />
     {/if}
   </div>
-
   {#if !only_icon || (!logo && !emoji)}
     {#if title}
       <h3 class="mt-1 overflow-hidden text-center leading-5 text-slate-300">{title}</h3>
