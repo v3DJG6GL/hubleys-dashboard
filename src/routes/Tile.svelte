@@ -117,6 +117,7 @@ hover:from-teal-600/90 hover:via-sky-700/90 hover:to-indigo-700/90
       <h4 class="overflow-hidden text-center text-xs text-slate-300">{subtitle}</h4>
     {/if}
   {/if}
+</a>
 
 <style>
   .card {
